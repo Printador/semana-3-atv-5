@@ -1,0 +1,4 @@
+são usados para implementar a escolha de melhor caminho a ser tomado
+usando o menor numero de vertices do ponto de partida até o destino,
+como um gps (path-finding). também são utilizados em rotas de metrô
+e aviões ou para identificar a relação entre participantes de uma rede social.
